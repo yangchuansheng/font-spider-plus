@@ -2,3 +2,9 @@ node_modules/
 .git
 .idea
 * text eol=lf
+example/fonts-zh.css
+example/fonts/STKaiti.eot
+example/fonts/STKaiti.woff
+example/fonts/STKaiti.woff2
+example/fonts/STKaiti.svg
+example/index/index.html
