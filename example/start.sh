@@ -2,6 +2,7 @@
 
 font=$1
 
+cp fonts/.font-spider/$font.ttf fonts/ 
 sed "s/\$font/$font/g" index/index.html.base > index/index.html
 
 fsp local index/index.html
