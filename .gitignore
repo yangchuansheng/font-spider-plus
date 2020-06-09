@@ -2,6 +2,7 @@ node_modules/
 .git
 .idea
 * text eol=lf
+.DS_Store
 example/fonts-zh.css
 example/fonts/STKaiti.eot
 example/fonts/STKaiti.woff
